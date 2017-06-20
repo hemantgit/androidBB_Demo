@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vendor-bb-core-js@2.4.1",
+        "scope": null,
+        "escapedName": "vendor-bb-core-js",
+        "name": "vendor-bb-core-js",
+        "rawSpec": "2.4.1",
+        "spec": "2.4.1",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "vendor-bb-core-js@2.4.1",
+  "_id": "vendor-bb-core-js@2.4.1",
+  "_inCache": true,
+  "_location": "/vendor-bb-core-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vendor-bb-core-js@2.4.1",
+    "scope": null,
+    "escapedName": "vendor-bb-core-js",
+    "name": "vendor-bb-core-js",
+    "rawSpec": "2.4.1",
+    "spec": "2.4.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-core-js/-/vendor-bb-core-js-2.4.1.tgz",
+  "_shasum": "eea5422ec6a9de502f2b63e63dfd48c24f92e04e",
+  "_shrinkwrap": null,
+  "_spec": "vendor-bb-core-js@2.4.1",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {},
+  "description": "Standard polyfill library",
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-core-js/-/vendor-bb-core-js-2.4.1.tgz",
+    "shasum": "eea5422ec6a9de502f2b63e63dfd48c24f92e04e"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "scripts/vendor-bb-core-js.js",
+  "name": "vendor-bb-core-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "2.4.1"
+}

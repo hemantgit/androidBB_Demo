@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vendor-bb-uib-datepicker@1.3.3",
+        "scope": null,
+        "escapedName": "vendor-bb-uib-datepicker",
+        "name": "vendor-bb-uib-datepicker",
+        "rawSpec": "1.3.3",
+        "spec": "1.3.3",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "vendor-bb-uib-datepicker@1.3.3",
+  "_id": "vendor-bb-uib-datepicker@1.3.3",
+  "_inCache": true,
+  "_location": "/vendor-bb-uib-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vendor-bb-uib-datepicker@1.3.3",
+    "scope": null,
+    "escapedName": "vendor-bb-uib-datepicker",
+    "name": "vendor-bb-uib-datepicker",
+    "rawSpec": "1.3.3",
+    "spec": "1.3.3",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/",
+    "/vendor-bb-uib-datepicker-popup"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-uib-datepicker/-/vendor-bb-uib-datepicker-1.3.3.tgz",
+  "_shasum": "8b14b1ba1744757444baad3b07f5de3aeee3cd37",
+  "_shrinkwrap": null,
+  "_spec": "vendor-bb-uib-datepicker@1.3.3",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {
+    "vendor-bb-angular": "^1.5.8",
+    "vendor-bb-uib-dateparser": "^1.3.3",
+    "vendor-bb-uib-is-class": "^1.3.3"
+  },
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-uib-datepicker/-/vendor-bb-uib-datepicker-1.3.3.tgz",
+    "shasum": "8b14b1ba1744757444baad3b07f5de3aeee3cd37"
+  },
+  "main": "scripts/vendor-bb-uib-datepicker.js",
+  "name": "vendor-bb-uib-datepicker",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.3.3"
+}

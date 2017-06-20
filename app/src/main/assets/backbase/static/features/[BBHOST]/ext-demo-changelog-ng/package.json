@@ -1,0 +1,8 @@
+{
+  "name": "ext-demo-changelog-ng",
+  "version": "0.1.0-alpha.0",
+  "main": "scripts/ext-demo-changelog-ng.js",
+  "dependencies": {
+    "vendor-bb-angular-ng-aria": "*"
+  }
+}

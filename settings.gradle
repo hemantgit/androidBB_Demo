@@ -1,0 +1,2 @@
+include ':app', ':changelog-widget', ':backbase-3.2.0'
+project(':changelog-widget').projectDir = new File('changelogwidget')

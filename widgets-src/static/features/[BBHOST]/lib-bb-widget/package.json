@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lib-bb-widget@1.0.8",
+        "scope": null,
+        "escapedName": "lib-bb-widget",
+        "name": "lib-bb-widget",
+        "rawSpec": "1.0.8",
+        "spec": "1.0.8",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "lib-bb-widget@1.0.8",
+  "_id": "lib-bb-widget@1.0.8",
+  "_inCache": true,
+  "_location": "/lib-bb-widget",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lib-bb-widget@1.0.8",
+    "scope": null,
+    "escapedName": "lib-bb-widget",
+    "name": "lib-bb-widget",
+    "rawSpec": "1.0.8",
+    "spec": "1.0.8",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/",
+    "/lib-bb-start-ng",
+    "/lib-bb-widget-ng"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-widget/-/lib-bb-widget-1.0.8.tgz",
+  "_shasum": "a7f0466de18068dd782feed69099571b574111ee",
+  "_shrinkwrap": null,
+  "_spec": "lib-bb-widget@1.0.8",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-widget/-/lib-bb-widget-1.0.8.tgz",
+    "shasum": "a7f0466de18068dd782feed69099571b574111ee"
+  },
+  "main": "scripts/lib-bb-widget.js",
+  "name": "lib-bb-widget",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.8"
+}

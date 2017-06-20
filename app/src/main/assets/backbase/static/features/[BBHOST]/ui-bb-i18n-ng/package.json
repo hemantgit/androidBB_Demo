@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ui-bb-i18n-ng@1.0.24",
+        "scope": null,
+        "escapedName": "ui-bb-i18n-ng",
+        "name": "ui-bb-i18n-ng",
+        "rawSpec": "1.0.24",
+        "spec": "1.0.24",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "ui-bb-i18n-ng@1.0.24",
+  "_id": "ui-bb-i18n-ng@1.0.24",
+  "_inCache": true,
+  "_location": "/ui-bb-i18n-ng",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ui-bb-i18n-ng@1.0.24",
+    "scope": null,
+    "escapedName": "ui-bb-i18n-ng",
+    "name": "ui-bb-i18n-ng",
+    "rawSpec": "1.0.24",
+    "spec": "1.0.24",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/ui-bb-i18n-ng/-/ui-bb-i18n-ng-1.0.24.tgz",
+  "_shasum": "ac63353552a7d6c0f327adbff913c3cdc2a52076",
+  "_shrinkwrap": null,
+  "_spec": "ui-bb-i18n-ng@1.0.24",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {
+    "lib-bb-i18n-ng": "^1.0.38",
+    "vendor-bb-angular": "^1.5.8"
+  },
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/ui-bb-i18n-ng/-/ui-bb-i18n-ng-1.0.24.tgz",
+    "shasum": "ac63353552a7d6c0f327adbff913c3cdc2a52076"
+  },
+  "main": "scripts/ui-bb-i18n-ng.js",
+  "name": "ui-bb-i18n-ng",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.24"
+}

@@ -1,0 +1,27 @@
+.ext-demo-about-ng .about {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    padding: 10px 15px;
+}
+
+.ext-demo-about-ng .item .icon.backbase {
+    margin-top: -2px;
+    margin-left: -2px;
+}
+
+.ext-demo-about-ng .contact {
+	padding-right: 25px;
+}
+
+.ext-demo-about-ng .contact-item {
+    padding-bottom: 10px;
+}
+
+.ext-demo-about-ng .contact-item button {
+    padding: 10px 30px;
+    width: 100%;
+}
+
+.ext-demo-about-ng .contact-item button .glyphicon {
+    font-size: 14px;
+}

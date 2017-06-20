@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vendor-bb-uib-alert@1.3.3",
+        "scope": null,
+        "escapedName": "vendor-bb-uib-alert",
+        "name": "vendor-bb-uib-alert",
+        "rawSpec": "1.3.3",
+        "spec": "1.3.3",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "vendor-bb-uib-alert@1.3.3",
+  "_id": "vendor-bb-uib-alert@1.3.3",
+  "_inCache": true,
+  "_location": "/vendor-bb-uib-alert",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vendor-bb-uib-alert@1.3.3",
+    "scope": null,
+    "escapedName": "vendor-bb-uib-alert",
+    "name": "vendor-bb-uib-alert",
+    "rawSpec": "1.3.3",
+    "spec": "1.3.3",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-uib-alert/-/vendor-bb-uib-alert-1.3.3.tgz",
+  "_shasum": "324474872f33beb6b5be8e6dd0042ad2d848c412",
+  "_shrinkwrap": null,
+  "_spec": "vendor-bb-uib-alert@1.3.3",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {
+    "vendor-bb-angular": "^1.5.8"
+  },
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-uib-alert/-/vendor-bb-uib-alert-1.3.3.tgz",
+    "shasum": "324474872f33beb6b5be8e6dd0042ad2d848c412"
+  },
+  "main": "scripts/vendor-bb-uib-alert.js",
+  "name": "vendor-bb-uib-alert",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.3.3"
+}

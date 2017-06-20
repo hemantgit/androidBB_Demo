@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lib-bbm-plugins@1.0.56",
+        "scope": null,
+        "escapedName": "lib-bbm-plugins",
+        "name": "lib-bbm-plugins",
+        "rawSpec": "1.0.56",
+        "spec": "1.0.56",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "lib-bbm-plugins@1.0.56",
+  "_id": "lib-bbm-plugins@1.0.56",
+  "_inCache": true,
+  "_location": "/lib-bbm-plugins",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lib-bbm-plugins@1.0.56",
+    "scope": null,
+    "escapedName": "lib-bbm-plugins",
+    "name": "lib-bbm-plugins",
+    "rawSpec": "1.0.56",
+    "spec": "1.0.56",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bbm-plugins/-/lib-bbm-plugins-1.0.56.tgz",
+  "_shasum": "3142accbcafe62d140cd7ab57a9545f4019807f4",
+  "_shrinkwrap": null,
+  "_spec": "lib-bbm-plugins@1.0.56",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {},
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bbm-plugins/-/lib-bbm-plugins-1.0.56.tgz",
+    "shasum": "3142accbcafe62d140cd7ab57a9545f4019807f4"
+  },
+  "main": "scripts/lib-bbm-plugins.js",
+  "name": "lib-bbm-plugins",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.56"
+}

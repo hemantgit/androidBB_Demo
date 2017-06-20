@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vendor-bb-ng-file-upload@12.2.4",
+        "scope": null,
+        "escapedName": "vendor-bb-ng-file-upload",
+        "name": "vendor-bb-ng-file-upload",
+        "rawSpec": "12.2.4",
+        "spec": "12.2.4",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "vendor-bb-ng-file-upload@12.2.4",
+  "_id": "vendor-bb-ng-file-upload@12.2.4",
+  "_inCache": true,
+  "_location": "/vendor-bb-ng-file-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vendor-bb-ng-file-upload@12.2.4",
+    "scope": null,
+    "escapedName": "vendor-bb-ng-file-upload",
+    "name": "vendor-bb-ng-file-upload",
+    "rawSpec": "12.2.4",
+    "spec": "12.2.4",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-ng-file-upload/-/vendor-bb-ng-file-upload-12.2.4.tgz",
+  "_shasum": "3ad2eb4fedb86928310b8600700e8a3ed28544b7",
+  "_shrinkwrap": null,
+  "_spec": "vendor-bb-ng-file-upload@12.2.4",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "author": "",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/vendor-bb-ng-file-upload/-/vendor-bb-ng-file-upload-12.2.4.tgz",
+    "shasum": "3ad2eb4fedb86928310b8600700e8a3ed28544b7"
+  },
+  "license": "ISC",
+  "main": "scripts/vendor-bb-ng-file-upload.js",
+  "name": "vendor-bb-ng-file-upload",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "12.2.4"
+}

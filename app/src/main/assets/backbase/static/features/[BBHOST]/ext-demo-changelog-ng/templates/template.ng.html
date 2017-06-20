@@ -1,0 +1,20 @@
+<div class="ext-demo-changelog-ng" ng-controller="ChangelogController as $ctrl">
+  <div class="changelog container-fluid">
+    <div ng-repeat="version in $ctrl.changelog">
+      <div class="version row" ng-click="$ctrl.versionClicked($index);">
+        <div class="col-xs-11">
+          <div class="date">{{ version.releaseDate }}</div>
+          <div class="name">{{ version.versionName }}</div>
+          <div class="notes">
+            <span class="note" ng-repeat="item in version.features | limitTo:3">
+							<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span> {{ item.name }}<br/>
+            </span>
+          </div>
+        </div>
+        <div class="arrow col-xs-1">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

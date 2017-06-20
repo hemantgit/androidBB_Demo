@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lib-bb-event-bus-ng@1.1.11",
+        "scope": null,
+        "escapedName": "lib-bb-event-bus-ng",
+        "name": "lib-bb-event-bus-ng",
+        "rawSpec": "1.1.11",
+        "spec": "1.1.11",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "lib-bb-event-bus-ng@1.1.11",
+  "_id": "lib-bb-event-bus-ng@1.1.11",
+  "_inCache": true,
+  "_location": "/lib-bb-event-bus-ng",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lib-bb-event-bus-ng@1.1.11",
+    "scope": null,
+    "escapedName": "lib-bb-event-bus-ng",
+    "name": "lib-bb-event-bus-ng",
+    "rawSpec": "1.1.11",
+    "spec": "1.1.11",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/",
+    "/lib-bb-notifications-ng",
+    "/lib-bb-start-ng"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-event-bus-ng/-/lib-bb-event-bus-ng-1.1.11.tgz",
+  "_shasum": "551bf13db7b0843eba26d922a258494a3acb5f7d",
+  "_shrinkwrap": null,
+  "_spec": "lib-bb-event-bus-ng@1.1.11",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {
+    "vendor-bb-angular": "^1.5.8"
+  },
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-event-bus-ng/-/lib-bb-event-bus-ng-1.1.11.tgz",
+    "shasum": "551bf13db7b0843eba26d922a258494a3acb5f7d"
+  },
+  "main": "scripts/lib-bb-event-bus-ng.js",
+  "name": "lib-bb-event-bus-ng",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.1.11"
+}

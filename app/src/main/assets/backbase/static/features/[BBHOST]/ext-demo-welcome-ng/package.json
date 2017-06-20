@@ -1,0 +1,8 @@
+{
+  "name": "ext-demo-welcome-ng",
+  "version": "0.1.0-alpha.0",
+  "main": "scripts/ext-demo-welcome-ng.js",
+  "dependencies": {
+    "vendor-bb-angular-ng-aria": "*"
+  }
+}

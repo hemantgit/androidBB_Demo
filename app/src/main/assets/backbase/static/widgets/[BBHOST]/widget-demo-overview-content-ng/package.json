@@ -1,0 +1,15 @@
+{
+  "name": "widget-demo-overview-content-ng",
+  "version": "0.1.0-alpha.0",
+  "main": "scripts/widget-demo-overview-content-ng.js",
+  "dependencies": {
+    "config-bb-module-loader": "*",
+    "ext-demo-overview-content-ng": "^0.1.0-alpha.0",
+    "lib-bb-event-bus-ng": "*",
+    "lib-bb-start": "*",
+    "lib-bb-widget-extension-ng": "*",
+    "lib-bb-widget-ng": "*",
+    "vendor-bb-angular": "*",
+    "vendor-bb-systemjs": "*"
+  }
+}

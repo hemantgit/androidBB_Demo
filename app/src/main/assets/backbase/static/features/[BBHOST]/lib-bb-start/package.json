@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lib-bb-start@2.0.3",
+        "scope": null,
+        "escapedName": "lib-bb-start",
+        "name": "lib-bb-start",
+        "rawSpec": "2.0.3",
+        "spec": "2.0.3",
+        "type": "version"
+      },
+      "/Users/ben/Sites/backbase/sudoku/distribution/fbb"
+    ]
+  ],
+  "_from": "lib-bb-start@2.0.3",
+  "_id": "lib-bb-start@2.0.3",
+  "_inCache": true,
+  "_location": "/lib-bb-start",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lib-bb-start@2.0.3",
+    "scope": null,
+    "escapedName": "lib-bb-start",
+    "name": "lib-bb-start",
+    "rawSpec": "2.0.3",
+    "spec": "2.0.3",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-start/-/lib-bb-start-2.0.3.tgz",
+  "_shasum": "b7b46d9f34230650d7d3a4f1cd7ed2088516c5d1",
+  "_shrinkwrap": null,
+  "_spec": "lib-bb-start@2.0.3",
+  "_where": "/Users/ben/Sites/backbase/sudoku/distribution/fbb",
+  "dependencies": {
+    "config-bb-module-loader": "^1.1.0",
+    "lib-bb-start-ng": "^1.7.10",
+    "vendor-bb-systemjs": "^0.19.38"
+  },
+  "devDependencies": {},
+  "dist": {
+    "tarball": "https://artifacts.backbase.com/api/npm/npm-backbase/lib-bb-start/-/lib-bb-start-2.0.3.tgz",
+    "shasum": "b7b46d9f34230650d7d3a4f1cd7ed2088516c5d1"
+  },
+  "main": "scripts/lib-bb-start.js",
+  "name": "lib-bb-start",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "2.0.3"
+}

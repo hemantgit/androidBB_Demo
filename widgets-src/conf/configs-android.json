@@ -1,0 +1,26 @@
+{
+    "development": {
+        "debugEnable": true
+    },
+    "backbase": {
+        "localModelPath": "$(contextRoot)/conf/model.json",
+        "experience": "demo",
+        "serverURL": "https://mobile.backbasecloud.com/portalserver"
+    },
+    "security": {
+        "allowedDomains": [],
+        "sslPinning": {
+            "certificates": []
+        }
+    },
+    "template": {
+        "extraLibraries": [
+            "$(contextRoot)/static/features/[BBHOST]/vendor-bb-core-js/scripts/vendor-bb-core-js.js"
+        ],
+        "styles": [
+            "$(contextRoot)/static/features/[BBHOST]/theme-default/dist/styles/base.min.css",
+            "$(contextRoot)/static/features/[BBHOST]/theme-mobile-demo/css/global.css",
+            "$(contextRoot)/static/features/[BBHOST]/theme-mobile-demo/css/android.css"
+        ]
+    }
+}
