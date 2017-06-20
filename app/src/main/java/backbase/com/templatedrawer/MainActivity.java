@@ -112,7 +112,6 @@ public class MainActivity extends AppCompatActivity implements SecurityViolation
     void loadModel(){
         //load the model
         bbInstance.getModel(new ModelListener<Model>() {
-
             @Override
             public void onModelReady(Model cxpModel) {
 
@@ -153,9 +152,12 @@ public class MainActivity extends AppCompatActivity implements SecurityViolation
 
             @Override
             public void onError(String error) {
-                System.out.println("ERROR MESSAGE " + error);
+                BBLogger.error(logTag, "contextRoot: " + bbInstance.getConfiguration().getContextRoot());
+                BBLogger.error(logTag, "failed loading model");
+                System.out.println("ERROR MESSAGE " + error
+                );
             }
-        }, ModelSource.LOCAL);
+        }, ModelSource.SERVER);
     }
 
     @Override
