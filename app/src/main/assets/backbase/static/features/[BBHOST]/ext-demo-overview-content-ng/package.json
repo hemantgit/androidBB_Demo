@@ -1,8 +1,0 @@
-{
-  "name": "ext-demo-overview-content-ng",
-  "version": "0.1.0-alpha.0",
-  "main": "scripts/ext-demo-overview-content-ng.js",
-  "dependencies": {
-    "vendor-bb-angular-ng-aria": "*"
-  }
-}
