@@ -1,12 +1,12 @@
 {
     "development": {
         "debugEnable": true,
-        "contextRoot": "http://192.168.10.158:7777/portalserver"
+        "contextRoot": "http://192.168.10.221:7777/portalserver"
     },
     "backbase": {
         "localModelPath": "backbase/conf/model.json",
         "experience": "demo-ldap",
-        "serverURL": "http://192.168.10.158:7777/portalserver"
+        "serverURL": "http://192.168.10.221:7777/portalserver"
     },
     "security": {
         "allowedDomains": [],
